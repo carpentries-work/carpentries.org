@@ -14,7 +14,7 @@ and research software development through building local and global communities 
 * Maintaining global communities of practice:
 	* [Instructor development](#instructor-development) - those who support Instructors as they build their skills
 	* [Trainers](#trainers) - those who prepare our new Instructors
-	* Lesson developers - those who create new lessons
+	* [Lesson developers](#lesson-developers) - those who create new lessons
 	* [Curriculum advisors](#curriculum-advisors) - those who guide development of existing lessons
 	* [Lesson maintainers](#maintainers) - those who support existing lessons
 	* [Lesson infrastructure](#lesson-infrastructure) - those who support lesson building and styling
@@ -102,6 +102,11 @@ well as for [The Carpentries workshop template](https://github.com/swcarpentry/w
 * [Current members](https://github.com/carpentries/lesson-infrastructure#members)
 * [Upcoming meetings](http://pad.software-carpentry.org/infrastructure-subcommittee)
 * [Contact](mailto:francois@carpentries.org)
+
+### Lesson Developers
+Lesson development can happen by suggesting improvements to existing lessons or by suggesting or sharing new lesson materials.  [Read more](/involved-lessons/) about how to contribute to our lessons.  
+
+
 
 ### Curriculum Advisors
 Curriculum Advisors provide high-level guidance on the overall structure of a particular curriculum,
