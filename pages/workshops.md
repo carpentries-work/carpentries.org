@@ -22,29 +22,29 @@ Read about our <a href="/workshops-curricula/">curriculum offerings.
 
   <div class="medium-4 columns">
   <p>
-    <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git.
+     <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
   </p>
   <p>
-     <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
+    <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git.
   </p>
   </div>
 
 
   <div class="medium-4 columns">
-  <p>
-    <a href="https://datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
-  </p>
   <p>  
     <a href="https://datacarpentry.org"><img src="{{ site.urlimg }}/logos/dc.svg"></a>
   </p>
+  <p>
+    <a href="https://datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
+  </p>
   </div>
 
   <div class="medium-4 columns">
   <p>
-    <a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> focus on teaching software and data skills for people working in library- and information-related roles. The workshops are domain-agnostic though datasets used will be familiar to library staff.
+    <a href="https://librarycarpentry.org"><img src="{{ site.urlimg }}/logos/lc.svg"></a> 
   </p>
   <p>
-    <a href="https://librarycarpentry.org"><img src="{{ site.urlimg }}/logos/lc.svg"></a> 
+    <a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> focus on teaching software and data skills for people working in library- and information-related roles. The workshops are domain-agnostic though datasets used will be familiar to library staff.
   </p>
   </div>
 
