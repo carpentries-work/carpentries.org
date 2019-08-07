@@ -15,7 +15,7 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
 </p>
 
 <p>
-Read about our <a href="/workshops-curricula/">curriculum offerings.  </b>
+Read about our <a href="/workshops-curricula/">curriculum offerings.
 </p>
 
 <div class="row">
