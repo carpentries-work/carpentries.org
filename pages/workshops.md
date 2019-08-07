@@ -14,21 +14,9 @@ taught by volunteer [Instructors]({% link pages/instructors.html %}), [trained i
 Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_workshops/">past</a> workshops.
 </p>
 
-<p>
-Read about our <a href="/workshops-curricula/">curriculum offerings.
-</p>
+
 
 <div class="row">
-
-  <div class="medium-4 columns">
-  <p>
-     <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
-  </p>
-  <p>
-    <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git.
-  </p>
-  </div>
-
 
   <div class="medium-4 columns">
   <p>  
@@ -48,7 +36,21 @@ Read about our <a href="/workshops-curricula/">curriculum offerings.
   </p>
   </div>
 
+  <div class="medium-4 columns">
+  <p>
+     <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
+  </p>
+  <p>
+    <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git.
+  </p>
+  </div>
+
 </div>
+
+<p>
+If you need assistance deciphering which workshop to run, please read <a href="/workshops-curricula/">descriptions of our curricula</a>.
+</p>
+
 
 <hr>
 
