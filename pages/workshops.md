@@ -51,7 +51,9 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
 If you need assistance deciphering which workshop to run, please read <a href="/workshops-curricula/">descriptions of our curricula</a>.
 </p>
 
-
+<div align="center">
+<a class="button small radius prev" href="/">Request a Carpentries workshop</a>
+</div>
 <hr>
 
 
