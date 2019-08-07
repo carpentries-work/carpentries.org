@@ -55,7 +55,7 @@ If you need assistance deciphering which workshop to run, please read <a href="/
 <a class="button small radius prev" href="/">Request a Carpentries workshop</a>
 </div>
 <hr>
-
+### <i class="far fa-money-bill-alt"></i> Workshop Cost
 
 <hr>
 
