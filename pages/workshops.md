@@ -16,6 +16,10 @@ taught by volunteer [Instructors]({% link pages/instructors.html %}), [trained i
 </p>
 
 
+<p>
+    <b>Read about our <a href="/workshops-curricula/">curriculum offerings</a>.  </b>
+</p>
+
 <div class="row">
 
 <div class="medium-4 columns">
