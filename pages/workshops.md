@@ -196,12 +196,14 @@ Note is hard to get the table to format correctly here.  Maybe better to just li
 <hr>
 
 
-
+<!-- Workshop forms -->
 [workshop_request_form]: https://amy.carpentries.org/forms/workshop/
+[workshop_inquiry_form]: https://amy.carpentries.org/forms/workshop/
 [self_org_notification_form]: https://amy.carpentries.org/forms/workshop/
+<!-- Other links -->
 [regional_coordinators]: {% link pages/regional_coordinators.html %}
 [carpentries_instructors]: {%link pages/instructors.html%}
 [workshop_checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
 [workshops_upcoming]: {%link pages/upcoming_workshops.html%}
 [code_of_conduct]: https://docs.carpentries.org/topic_folders/policies/index_coc.html
-[workshop_inquiry_form]: https://amy.carpentries.org/forms/workshop/
+
