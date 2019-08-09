@@ -6,7 +6,7 @@ permalink: /workshops/
 
 <p>The Carpentries develops and teaches in-person, interactive, hands-on, two-day workshops for learning core data science and coding skills. Carpentries workshops are
 taught by volunteer [Instructors][carpentries_instructors], [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
-[Github](https://github.com/), and collaboratively developed by our volunteer community. </p>
+[Github](https://github.com/), and collaboratively developed by our volunteer community.  All participants are required to abide by [The Carpentries Code of Conduct][code_of_conduct]. </p>
 
 <p>A global team of our [Regional Coordinators][regional_coordinators] support the coordination of workshop activity and community building in regions around the world. </p>
 
