@@ -55,6 +55,7 @@ If you need assistance deciphering which workshop to run, please read <a href="/
 <a class="button small radius prev" href="/">Request a Carpentries workshop</a>
 </div>
 <hr>
+
 ### <i class="far fa-money-bill-alt"></i> Workshop Cost
 
 Our instructors are volunteers, and so are not paid for their teaching, but host sites are **required to cover travel and accommodation costs for any instructors**.
@@ -62,11 +63,10 @@ Our instructors are volunteers, and so are not paid for their teaching, but host
 * The cost of hosting a workshop includes both the Workshop Administration Fee and travel expenses for the two instructors.
 * The Workshop Administration fee is used to support staff time with this partnership. You will be provided with exceptional and timely customer service in addition to around the clock support for your workshop. 
 
-Workshop Administration Fee (Government and non-profit institutions):
+#### Workshop Administration Fee (Government and non-profit institutions):
 * $2500 US
-* This is the fee for not-for-profit organisations, such as universities and government labs. 
 
-Workshop Administration Fee (For Profit):
+#### Workshop Administration Fee (For Profit):
 * For information on fees for for-profit organisations, please [contact us](mailto:team@carpentries.org). 50% of workshop coordination fees for for-profit organisations go towards supporting workshops in areas with financial need. Partial or full waivers for fees will be considered on an as-needed basis.
 
 
