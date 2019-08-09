@@ -180,7 +180,7 @@ If you teach a workshop that does not follow the core curriculum we would still 
 
 
 
-### <i class="fas fa-smile" id="workshop-cost"></i> Contact Us
+### <i class="fas fa-smile" id="workshop-contact"></i> Contact Us
 If have more questions you would like to speak to someone in your region about The Carpentries to learn more about our workshops, we invite you to contact your [Regional Coordinator][regional_coordinators] or complete the [Inquiry Form][workshop_inquiry_form] and someone will contact you. 
 
 <div align="center">
