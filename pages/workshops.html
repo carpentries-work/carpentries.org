@@ -250,9 +250,16 @@ If have more questions you would like to speak to someone in your region about T
 </div>
 <hr>
 
-</h3>Upcoming workshops</h3>
+<h3>Upcoming workshops</h3>
+    Check out our <a href="/past_workshops/">past workshops here</a>.
 
-Note is hard to get the table to format correctly here.  Maybe better to just link to [the other page][workshops_upcoming].
+   <div class="row">
+        <div class="medium-12 columns">
+      {% assign workshop_list = site.data.all_upcoming_workshops %}
+      {% include workshop_table.md %}
+    </div>
+    </div>
+
 
 
 <hr>
