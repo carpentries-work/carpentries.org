@@ -74,7 +74,9 @@ All invoices will be issued by [Community Initiatives](https://communityin.org/)
 #### Workshop Administration Scholarship
 Scholarships may be available for workshops that reach new or under-served communities. If you are interested in hosting and would like to request assistance covering the fee, please complete the Workshop Request Form. Select the option “I am requesting a scholarship to waive the administrative fee” and answer the required questions. If a scholarship is awarded, the host will still be responsible for the instructor travel expenses. 
 
-
+#### Travel Expenses for Instructors:
+* All Instructors are volunteers, but the Host needs to cover their travel expenses. We work to find local instructors, but suggest that you estimate about $2000 total ($1000 per Instructor) for the travel, food, and accommodation of the instructors. 
+* The details of how you will reimburse the instructors need to be established when the workshop is scheduled. **The Carpentries is not involved in this process.**
 
 
 
