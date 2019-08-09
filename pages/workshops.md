@@ -8,7 +8,7 @@ permalink: /workshops/
 taught by volunteer [Instructors]({% link pages/instructors.html %}), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
 <a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. </p>
 
-<p>A global team of <a href="{% link pages/regional_coordinators.html %}">Regional Coordinators</a> support the coordination of workshop activity and community building in regions around the world. </p>
+<p>A global team of our [Regional Coordinators][regional_coordinators] support the coordination of workshop activity and community building in regions around the world. </p>
 
 <p>
 Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_workshops/">past</a> workshops.
@@ -85,7 +85,7 @@ Scholarships may be available for workshops that reach new or under-served commu
 The Carpentries offers 2 types of workshops. **Centrally-Organised** and **Self-Organised**.
 
 #### Requesting a Centrally-Organised Workshop
-Workshops are organised by The Carpentries Workshop Administration team for a [fee](#workshop-cost). The Regional Coordinator for your region will assist with locating and coordinating instructors for the workshop. We ask that you request Centrally-Organised workshops at least 2-3 months before your desired workshop date. To learn more about the process for organising a workshop please review the Workshop Checklist.
+Workshops are organised by The Carpentries Workshop Administration team for a [fee](#workshop-cost). The [Regional Coordinator][regional_coordinators] for your region will assist with locating and coordinating instructors for the workshop. We ask that you request Centrally-Organised workshops at least 2-3 months before your desired workshop date. To learn more about the process for organising a workshop please review the Workshop Checklist.
 
 <div align="center">
 <a class="button small radius prev" href="/">Request a Carpentries workshop</a>
@@ -97,3 +97,4 @@ Workshops are organised by The Carpentries Workshop Administration team for a [f
 
 
 [workshop_request_form]: https://amy.carpentries.org/forms/workshop/
+[regional_coordinators]: {% link pages/regional_coordinators.html %}
