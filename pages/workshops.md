@@ -109,7 +109,7 @@ Scholarships may be available for workshops that reach new or under-served commu
 
 <br>
 
-The Carpentries offers 2 types of workshops. **Centrally-Organised** and **Self-Organised**.
+The Carpentries offers two types of workshops: **Centrally-Organised** and **Self-Organised**.
 
 #### Requesting a Centrally-Organised Workshop
 Workshops are organised by The Carpentries Workshop Administration team for a [fee](#workshop-cost). The [Regional Coordinator][regional_coordinators] for your region will assist with locating and coordinating instructors for the workshop. We ask that you request Centrally-Organised workshops at least 2-3 months before your desired workshop date. To learn more about the process for organising a workshop please review the [Workshop Checklist][workshop_checklist].
