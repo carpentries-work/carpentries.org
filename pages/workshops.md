@@ -69,6 +69,7 @@ Our instructors are volunteers, and so are not paid for their teaching, but host
 #### Workshop Administration Fee (For Profit):
 * For information on fees for for-profit organisations, please [contact us](mailto:team@carpentries.org). 50% of workshop coordination fees for for-profit organisations go towards supporting workshops in areas with financial need. Partial or full waivers for fees will be considered on an as-needed basis.
 
+All invoices will be issued by [Community Initiatives](https://communityin.org/), our fiscal sponsor. The Carpentries staff will work with host sites to manage the invoicing process.
 
 
 
