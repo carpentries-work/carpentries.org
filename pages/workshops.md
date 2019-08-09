@@ -14,7 +14,9 @@ taught by volunteer [Instructors][carpentries_instructors], [trained in pedagogy
 Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_workshops/">past</a> workshops.
 </p>
 
+<hr>
 
+### <i class="fas fa-laptop"></i> Workshop Curriculum
 
 <div class="row">
 
