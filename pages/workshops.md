@@ -190,7 +190,7 @@ If have more questions you would like to speak to someone in your region about T
 
 #### Upcoming workshops
 
-Note is hard to get the table to format correctly here.  Maybe better to just link to [the other page][upcoming_workshops].
+Note is hard to get the table to format correctly here.  Maybe better to just link to [the other page][workshops_upcoming].
 
 
 <hr>
