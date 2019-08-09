@@ -5,8 +5,8 @@ permalink: /workshops/
 ---
 
 <p>The Carpentries develops and teaches in-person, interactive, hands-on, two-day workshops for learning core data science and coding skills. Carpentries workshops are
-taught by volunteer [Instructors]({% link pages/instructors.html %}), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
-<a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. </p>
+taught by volunteer [Instructors][carpentries_instructors], [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
+[Github](https://github.com/), and collaboratively developed by our volunteer community. </p>
 
 <p>A global team of our [Regional Coordinators][regional_coordinators] support the coordination of workshop activity and community building in regions around the world. </p>
 
@@ -184,7 +184,10 @@ If have more questions you would like to speak to someone in your region about T
 
 #### Upcoming workshops
 
-Note is hard to get the table to format correctly here.  Maybe better to just link to [the other page][upcoming_workshops]
+Note is hard to get the table to format correctly here.  Maybe better to just link to [the other page][upcoming_workshops].
+
+
+<hr>
 
 
 
