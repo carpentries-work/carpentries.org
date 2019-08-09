@@ -78,9 +78,12 @@ Scholarships may be available for workshops that reach new or under-served commu
 * All Instructors are volunteers, but the Host needs to cover their travel expenses. We work to find local instructors, but suggest that you estimate about $2000 total ($1000 per Instructor) for the travel, food, and accommodation of the instructors. 
 * The details of how you will reimburse the instructors need to be established when the workshop is scheduled. **The Carpentries is not involved in this process.**
 
-
-
-
 <hr>
+
+### <i class="fas fa-tasks"></i> Organizing a Workshop
+
+
+
+
 
 [workshop_request_form]: https://amy.carpentries.org/forms/workshop/
