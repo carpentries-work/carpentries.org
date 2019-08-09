@@ -152,6 +152,11 @@ If have more questions you would like to speak to someone in your region about T
 </div>
 <hr>
 
+#### Upcoming workshops
+
+Note is hard to get the table to format correctly here.  Maybe better to just link to [the other page][upcoming_workshops]
+
+
 
 [workshop_request_form]: https://amy.carpentries.org/forms/workshop/
 [self_org_notification_form]: https://amy.carpentries.org/forms/workshop/
