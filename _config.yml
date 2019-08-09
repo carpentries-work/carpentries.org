@@ -30,7 +30,7 @@ author: weaverbel
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://carpentries.org'
+url: 'https://carpentries-work.github.io/carpentries_test_website/'
 baseurl: ''
 filesurl: 'https://carpentries.org/files'
 contact: "team@carpentries.org"
