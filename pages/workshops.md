@@ -93,7 +93,7 @@ Workshops are organised by The Carpentries Workshop Administration team for a [f
 
 
 #### Notification of Self-Organised Workshops
-The Carpentries welcomes you to organise and run your own workshop. This means you are already connected with our [certified instructors][carpentries_instructors] and will work with them on all aspects of workshop organisation. When planning a Self-Organised workshop we ask that you complete the [self organized workshop notification form][self_org_notification_form] to notify us of your planned workshop so that we can add your workshop to our website, and provide support (in the form of survey result links and AMI instances for Genomics workshops) for your workshop. To learn more about the process for organising a workshop please review the [Workshop Checklist][workshop_checklist]. 
+The Carpentries welcomes you to organise and run your own workshop. This means you are already connected with our [certified instructors][carpentries_instructors] and will work with them on all aspects of workshop organisation. When planning a Self-Organised workshop we ask that you complete the [self organized workshop notification form][self_org_notification_form] to notify us of your planned workshop so that we can [add your workshop to our website][workshops_upcoming], and provide support (in the form of survey result links and AMI instances for Genomics workshops) for your workshop. To learn more about the process for organising a workshop please review the [Workshop Checklist][workshop_checklist]. 
 
 <div align="center">
 <a class="button small radius prev" href="/">Request a Carpentries workshop</a>
@@ -109,3 +109,4 @@ The Carpentries welcomes you to organise and run your own workshop. This means y
 [regional_coordinators]: {% link pages/regional_coordinators.html %}
 [carpentries_instructors]: {%link pages/instructors.html%}
 [workshop_checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
+[workshops_upcoming]: {link pages/upcoming_workshops.html}
