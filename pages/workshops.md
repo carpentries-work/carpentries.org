@@ -73,6 +73,8 @@ If you need assistance deciphering which workshop to run, please read <a href="/
 
 ### <i class="far fa-money-bill-alt" id="workshop-cost"></i> Workshop Cost
 
+<br>
+
 Our instructors are volunteers, and so are not paid for their teaching, but host sites are **required to cover travel and accommodation costs for any instructors**.
 
 * The cost of hosting a workshop includes both the Workshop Administration Fee and travel expenses for the two instructors.
@@ -96,6 +98,8 @@ Scholarships may be available for workshops that reach new or under-served commu
 <hr>
 
 ### <i class="fas fa-tasks"></i> Organizing a Workshop
+
+<br>
 
 The Carpentries offers 2 types of workshops. **Centrally-Organised** and **Self-Organised**.
 
@@ -123,6 +127,8 @@ A Carpentries lesson must meet the following requirements:
 
 
 #### What are the Core sections for a Carpentries Workshop? 
+
+<br>
 
 <div class="row">
 
