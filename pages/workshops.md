@@ -71,6 +71,12 @@ Our instructors are volunteers, and so are not paid for their teaching, but host
 
 All invoices will be issued by [Community Initiatives](https://communityin.org/), our fiscal sponsor. The Carpentries staff will work with host sites to manage the invoicing process.
 
+#### Workshop Administration Scholarship
+Scholarships may be available for workshops that reach new or under-served communities. If you are interested in hosting and would like to request assistance covering the fee, please complete the Workshop Request Form. Select the option “I am requesting a scholarship to waive the administrative fee” and answer the required questions. If a scholarship is awarded, the host will still be responsible for the instructor travel expenses. 
+
+
+
+
 
 
 <hr>
