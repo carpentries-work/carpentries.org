@@ -56,7 +56,7 @@ If you need assistance deciphering which workshop to run, please read <a href="/
 </div>
 <hr>
 
-### <i class="far fa-money-bill-alt"></i> Workshop Cost
+### <i class="far fa-money-bill-alt" id="workshop-cost"></i> Workshop Cost
 
 Our instructors are volunteers, and so are not paid for their teaching, but host sites are **required to cover travel and accommodation costs for any instructors**.
 
@@ -85,7 +85,7 @@ Scholarships may be available for workshops that reach new or under-served commu
 The Carpentries offers 2 types of workshops. **Centrally-Organised** and **Self-Organised**.
 
 #### Requesting a Centrally-Organised Workshop
-Workshops are organised by The Carpentries Workshop Administration team for a [fee](#). The Regional Coordinator for your region will assist with locating and coordinating instructors for the workshop. We ask that you request Centrally-Organised workshops at least 2-3 months before your desired workshop date. To learn more about the process for organising a workshop please review the Workshop Checklist.
+Workshops are organised by The Carpentries Workshop Administration team for a [fee](#workshop-cost). The Regional Coordinator for your region will assist with locating and coordinating instructors for the workshop. We ask that you request Centrally-Organised workshops at least 2-3 months before your desired workshop date. To learn more about the process for organising a workshop please review the Workshop Checklist.
 
 
 
