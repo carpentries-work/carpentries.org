@@ -112,7 +112,7 @@ Workshops are organised by The Carpentries Workshop Administration team for a [f
 
 
 #### Notification of Self-Organised Workshops
-The Carpentries welcomes you to organise and run your own workshop. This means you are already connected with our [certified instructors][carpentries_instructors] and will work with them on all aspects of workshop organisation. When planning a Self-Organised workshop we ask that you complete the [self organized workshop notification form][self_org_notification_form] to notify us of your planned workshop so that we can [add your workshop to our website][workshops_upcoming], and provide support (in the form of survey result links and AMI instances for Genomics workshops) for your workshop. To learn more about the process for organising a workshop please review the [Workshop Checklist][workshop_checklist]. 
+The Carpentries welcomes you to organise and run your own workshop. This means you are already connected with our [certified instructors][carpentries_instructors] and will work with them on all aspects of workshop organisation. When planning a Self-Organised workshop we ask that you complete the [self organized workshop notification form][self_org_notification_form] to notify us of your planned workshop so that we can [add your workshop to our website][workshops_upcoming], and provide support (in the form of survey result links and AMI instances for Genomics workshops) for your workshop. To learn more about the process for organising a workshop please review the [Workshop Checklist][workshop_checklist]. There is no fee due to The Carpentries for running a self-organized workshop.
 
 <div align="center">
 <a class="button small radius prev" href="/">Notify us of a self-organized workshop</a>
