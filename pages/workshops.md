@@ -144,6 +144,15 @@ If you teach a workshop that does not follow the core curriculum we would still 
 
 
 
+### <i class="fas fa-smile" id="workshop-cost"></i> Contact Us
+If have more questions you would like to speak to someone in your region about The Carpentries to learn more about our workshops, we invite you to contact your [Regional Coordinator][regional_coordinators] or complete the [Inquiry Form][workshop_inquiry_form] and someone will contact you. 
+
+<div align="center">
+<a class="button small radius prev" href="/">Inquire about a Carpentries workshop</a>
+</div>
+<hr>
+
+
 [workshop_request_form]: https://amy.carpentries.org/forms/workshop/
 [self_org_notification_form]: https://amy.carpentries.org/forms/workshop/
 [regional_coordinators]: {% link pages/regional_coordinators.html %}
@@ -151,3 +160,4 @@ If you teach a workshop that does not follow the core curriculum we would still 
 [workshop_checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
 [workshops_upcoming]: {%link pages/upcoming_workshops.html%}
 [code_of_conduct]: https://docs.carpentries.org/topic_folders/policies/index_coc.html
+[workshop_inquiry_form]: https://amy.carpentries.org/forms/workshop/
