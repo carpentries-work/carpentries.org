@@ -83,7 +83,7 @@ If you need assistance deciphering which workshop to run, please read <a href="/
 Our instructors are volunteers, and so are not paid for their teaching, but host sites are **required to cover travel and accommodation costs for any instructors**.
 
 * The cost of hosting a workshop includes both the Workshop Administration Fee and travel expenses for the two instructors.
-* The Workshop Administration fee is used to support staff time with this partnership. You will be provided with exceptional and timely customer service in addition to around the clock support for your workshop. 
+* This fee is used to support staff time with this partnership. You will be provided with exceptional customer service and timely support from our Workshop Administration Team and Regional Coordinators. 
 
 #### Workshop Administration Fee (Government and non-profit institutions):
 * $2500 US
