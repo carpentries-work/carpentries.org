@@ -101,8 +101,9 @@ The Carpentries welcomes you to organise and run your own workshop. This means y
 
 #### What are the requirements for a Carpentries workshop? 
 A Carpentries lesson must meet the following requirements: 
+* Teach a lesson program's core curriculum
 * Have at least 1 [certified instructor]({%link pages/instructors.html%}) 
-* Must use The Carpentries surveys to get evaluations
+* Use The Carpentries surveys to get evaluations
 * Abide by our [Code of Conduct][code_of_conduct]
 
 
