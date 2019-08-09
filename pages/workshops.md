@@ -140,6 +140,9 @@ A Carpentries lesson must meet the following requirements:
 
 </div>
 
+If you teach a workshop that does not follow the core curriculum we would still like to know about it! You can complete the [Self-Organised Notification Form][self_org_notification_form] and we will be sure to get it listed on [The Carpentries webpage][workshops_upcoming].
+
+
 
 [workshop_request_form]: https://amy.carpentries.org/forms/workshop/
 [self_org_notification_form]: https://amy.carpentries.org/forms/workshop/
