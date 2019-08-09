@@ -85,7 +85,7 @@ Scholarships may be available for workshops that reach new or under-served commu
 The Carpentries offers 2 types of workshops. **Centrally-Organised** and **Self-Organised**.
 
 #### Requesting a Centrally-Organised Workshop
-Workshops are organised by The Carpentries Workshop Administration team for a [fee](#workshop-cost). The [Regional Coordinator][regional_coordinators] for your region will assist with locating and coordinating instructors for the workshop. We ask that you request Centrally-Organised workshops at least 2-3 months before your desired workshop date. To learn more about the process for organising a workshop please review the [Workshop Checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html).
+Workshops are organised by The Carpentries Workshop Administration team for a [fee](#workshop-cost). The [Regional Coordinator][regional_coordinators] for your region will assist with locating and coordinating instructors for the workshop. We ask that you request Centrally-Organised workshops at least 2-3 months before your desired workshop date. To learn more about the process for organising a workshop please review the [Workshop Checklist][workshop_checklist].
 
 <div align="center">
 <a class="button small radius prev" href="/">Request a Carpentries workshop</a>
@@ -93,7 +93,7 @@ Workshops are organised by The Carpentries Workshop Administration team for a [f
 
 
 #### Notification of Self-Organised Workshops
-The Carpentries welcomes you to organise and run your own workshop. This means you are already connected with our [certified instructors][carpentries_instructors] and will work with them on all aspects of workshop organisation. When planning a Self-Organised workshop we ask that you complete the [self organized workshop notification form][self_org_notification_form] to notify us of your planned workshop so that we can add your workshop to our website, and provide support (in the form of survey result links and AMI instances for Genomics workshops) for your workshop. To learn more about the process for organising a workshop please review the Workshop Checklist. 
+The Carpentries welcomes you to organise and run your own workshop. This means you are already connected with our [certified instructors][carpentries_instructors] and will work with them on all aspects of workshop organisation. When planning a Self-Organised workshop we ask that you complete the [self organized workshop notification form][self_org_notification_form] to notify us of your planned workshop so that we can add your workshop to our website, and provide support (in the form of survey result links and AMI instances for Genomics workshops) for your workshop. To learn more about the process for organising a workshop please review the [Workshop Checklist][workshop_checklist]. 
 
 <div align="center">
 <a class="button small radius prev" href="/">Request a Carpentries workshop</a>
@@ -108,3 +108,4 @@ The Carpentries welcomes you to organise and run your own workshop. This means y
 [self_org_notification_form]: https://amy.carpentries.org/forms/workshop/
 [regional_coordinators]: {% link pages/regional_coordinators.html %}
 [carpentries_instructors]: {%link pages/instructors.html%}
+[workshop_checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
