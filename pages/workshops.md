@@ -71,7 +71,10 @@ If you need assistance deciphering which workshop to run, please read <a href="/
 </div>
 <hr>
 
-### <i class="far fa-money-bill-alt" id="workshop-cost"></i> Workshop Cost
+
+<div id="workshop-cost" style="padding: 50 0 0 0;">
+
+### <i class="far fa-money-bill-alt"></i> Workshop Cost
 
 <br>
 
@@ -94,6 +97,9 @@ Scholarships may be available for workshops that reach new or under-served commu
 #### Travel Expenses for Instructors:
 * All Instructors are volunteers, but the Host needs to cover their travel expenses. We work to find local instructors, but suggest that you estimate about $2000 total ($1000 per Instructor) for the travel, food, and accommodation of the instructors. 
 * The details of how you will reimburse the instructors need to be established when the workshop is scheduled. **The Carpentries is not involved in this process.**
+
+</div>
+
 
 <hr>
 
