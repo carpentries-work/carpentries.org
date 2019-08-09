@@ -107,6 +107,38 @@ A Carpentries lesson must meet the following requirements:
 * Abide by our [Code of Conduct][code_of_conduct]
 
 
+#### What are the Core sections for a Carpentries Workshop? 
+
+<div class="row">
+
+  <div class="medium-4 columns">
+  <p>  
+    <a href="https://datacarpentry.org"><img src="{{ site.urlimg }}/logos/dc.svg"></a>
+  </p>
+  <p>
+    <a href="https://datacarpentry.org/workshops/">Data Carpentry workshops</a> should include a lesson on data organization and at least three other lessons from that curriculum.
+  </p>
+  </div>
+
+  <div class="medium-4 columns">
+  <p>
+    <a href="https://librarycarpentry.org"><img src="{{ site.urlimg }}/logos/lc.svg"></a> 
+  </p>
+  <p>
+    <a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> should teach any three lessons from the Library Carpentry curriculum.
+  </p>
+  </div>
+
+  <div class="medium-4 columns">
+  <p>
+     <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
+  </p>
+  <p>
+    <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> should teach the Unix Shell, Version control with Git, and one programming language (Python or R).
+  </p>
+  </div>
+
+</div>
 
 
 [workshop_request_form]: https://amy.carpentries.org/forms/workshop/
