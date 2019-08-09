@@ -99,7 +99,11 @@ The Carpentries welcomes you to organise and run your own workshop. This means y
 <a class="button small radius prev" href="/">Notify us of a self-organized workshop</a>
 </div>
 
-
+#### What are the requirements for a Carpentries workshop? 
+A Carpentries lesson must meet the following requirements: 
+* Have at least 1 [certified instructor]({%link pages/instructors.html%}) 
+* Must use The Carpentries surveys to get evaluations
+* Abide by our [Code of Conduct][code_of_conduct]
 
 
 
@@ -110,3 +114,4 @@ The Carpentries welcomes you to organise and run your own workshop. This means y
 [carpentries_instructors]: {%link pages/instructors.html%}
 [workshop_checklist]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html
 [workshops_upcoming]: {link pages/upcoming_workshops.html}
+[code_of_conduct]: https://docs.carpentries.org/topic_folders/policies/index_coc.html
