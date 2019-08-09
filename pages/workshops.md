@@ -22,17 +22,11 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
   <p>  
     <a href="https://datacarpentry.org"><img src="{{ site.urlimg }}/logos/dc.svg"></a>
   </p>
-  <p>
-    <a href="https://datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
-  </p>
   </div>
 
   <div class="medium-4 columns">
   <p>
     <a href="https://librarycarpentry.org"><img src="{{ site.urlimg }}/logos/lc.svg"></a> 
-  </p>
-  <p>
-    <a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> focus on teaching software and data skills for people working in library- and information-related roles. The workshops are domain-agnostic though datasets used will be familiar to library staff.
   </p>
   </div>
 
@@ -40,12 +34,33 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
   <p>
      <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
   </p>
+  </div>
+
+</div>
+
+
+<div class="row">
+
+  <div class="medium-4 columns">
+  <p>
+    <a href="https://datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
+  </p>
+  </div>
+
+  <div class="medium-4 columns">
+  <p>
+    <a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> focus on teaching software and data skills for people working in library- and information-related roles. The workshops are domain-agnostic though datasets used will be familiar to library staff.
+  </p>
+  </div>
+
+  <div class="medium-4 columns">
   <p>
     <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git.
   </p>
   </div>
 
 </div>
+
 
 <p>
 If you need assistance deciphering which workshop to run, please read <a href="/workshops-curricula/">descriptions of our curricula</a>.
@@ -115,17 +130,11 @@ A Carpentries lesson must meet the following requirements:
   <p>  
     <a href="https://datacarpentry.org"><img src="{{ site.urlimg }}/logos/dc.svg"></a>
   </p>
-  <p>
-    <a href="https://datacarpentry.org/workshops/">Data Carpentry workshops</a> should include a lesson on data organization and at least three other lessons from that curriculum.
-  </p>
   </div>
 
   <div class="medium-4 columns">
   <p>
     <a href="https://librarycarpentry.org"><img src="{{ site.urlimg }}/logos/lc.svg"></a> 
-  </p>
-  <p>
-    <a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> should teach any three lessons from the Library Carpentry curriculum.
   </p>
   </div>
 
@@ -133,12 +142,33 @@ A Carpentries lesson must meet the following requirements:
   <p>
      <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
   </p>
+  </div>
+
+</div>
+
+
+<div class="row">
+
+  <div class="medium-4 columns">
+  <p>
+    <a href="https://datacarpentry.org/workshops/">Data Carpentry workshops</a> should include a lesson on data organization and at least three other lessons from that curriculum.
+  </p>
+  </div>
+
+  <div class="medium-4 columns">
+  <p>
+    <a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> should teach any three lessons from the Library Carpentry curriculum.
+  </p>
+  </div>
+
+  <div class="medium-4 columns">
   <p>
     <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> should teach the Unix Shell, Version control with Git, and one programming language (Python or R).
   </p>
   </div>
 
 </div>
+
 
 If you teach a workshop that does not follow the core curriculum we would still like to know about it! You can complete the [Self-Organised Notification Form][self_org_notification_form] and we will be sure to get it listed on [The Carpentries webpage][workshops_upcoming].
 
