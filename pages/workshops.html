@@ -33,7 +33,9 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
 <div class="callout-wrap-large">
 <div class="callout-circle">
 
-<span>{{ site.data.all_past_workshops | size | times: 25}}</span>
+{% assign learner_count = site.data.all_past_workshops | size | times: 25 %}
+
+<span>{{ learner_count }}</span>
 
 </div>
 <h3 align="center">learners</h3>
