@@ -19,19 +19,19 @@ Workshops:
 
 {% assign past_workshop_count = site.data.all_past_workshops | size %}
 
-{% include numbers_with_commas.html number=past_workshop_count %}
+{% include numbers_with_commas.html number = past_workshop_count %}
 
 Learners:
 
 {% assign learner_count = past_workshop_count | times:25 %}
 
-{% include numbers_with_commas.html number=learner_count %}
+{% include numbers_with_commas.html number = learner_count %}
 
 Instructors:
 
 {% assign instructor_count = site.data.badges_stats.n_instructors %}
 
-{% include numbers_with_commas.html number=instructor_count %}
+{% include numbers_with_commas.html number = instructor_count %}
 
 
 
