@@ -14,6 +14,24 @@ curriculum advisors, helpers, workshop hosts and organisers, community champions
 
 <center><h2>Volunteer with us!</h2></center>
 
+<!-- 
+  Get data for stats in circles
+-->
+
+{% assign upcoming_workshop_count =  site.data.all_upcoming_workshops %}
+{% upcoming_workshop_count | size %}
+
+DATA TEST
+
+{{ upcoming_workshop_count }}
+
+END DATA TEST
+
+
+
+
+
+
 <hr>
 <div class="row">
 
