@@ -17,21 +17,16 @@ curriculum advisors, helpers, workshop hosts and organisers, community champions
 
 Workshops:
 
-{% assign past_workshop_count = site.data.all_past_workshops | size %}
 
-{{ past_workshop_count }}
+{{ site.data.all_past_workshops | size }}
 
 Learners:
 
-{% assign learner_count = past_workshop_count | times:25 %}
+{{ site.data.all_past_workshops | size | times:25 }}
 
-{{ learner_count }}
+Instructors now:
 
-Instructors:
-
-{% assign instructor_count = site.data.badges_stats.n_instructors %}
-
-{{ instructor_count }}
+{{ site.data.badges_stats.n_instructors }}
 
 <hr>
 <div class="row">
