@@ -8,10 +8,14 @@ permalink: /workshops/
   Get data for stats in circles
 -->
 
+{% assign instructor_count = site.data.badges_stats.n_instructors %}
+
 {% assign upcoming_workshop_count =  site.data.all_upcoming_workshops | size %}
 {% assign past_workshop_count = site.data.all_past_workshops | size %}
 {% assign all_workshops_count = upcoming_workshop_count | plus: past_workshop_count %}
 {% assign all_learners_count = all_workshops_count | times: 25 %}
+
+<h2>Count instructors: {{ instructor_count }}</h2>
 
 
 <p>The Carpentries develops and teaches in-person, interactive, hands-on, two-day workshops for learning core data science and coding skills. Carpentries workshops are
