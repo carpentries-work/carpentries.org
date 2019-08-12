@@ -21,7 +21,7 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
 <div class="callout-wrap-large">
 <div class="callout-circle">
 
-<span>{{ site.data.badges_stats.n_instructors }}
+<span>{% include numbers_with_commas.html  number=site.data.badges_stats.n_instructors decimals=0 ts="," %}
 </span>
 
 </div>
@@ -35,7 +35,7 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
 
 {% assign learner_count = site.data.all_past_workshops | size | times: 25 %}
 
-<span>{{ learner_count }}</span>
+<span>{% include numbers_with_commas.html number=learner_count decimals=0 ts="," %}</span>
 
 </div>
 <h3 align="center">learners</h3>
@@ -46,7 +46,9 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
 <div class="callout-wrap-large">
 <div class="callout-circle">
 
-<span>{{ site.data.all_past_workshops | size }}</span>
+{% assign workshop_count = site.data.all_past_workshops | size %}
+
+<span>{% include numbers_with_commas.html number=workshop_count decimals=0 ts="," %}</span>
 
 </div>
 <h3 align="center">workshops</h3>
