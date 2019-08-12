@@ -4,19 +4,6 @@ title: "What is a Workshop?"
 permalink: /workshops/
 ---
 
-<!-- 
-  Get data for stats in circles
--->
-
-{% assign instructor_count = site.data.badges_stats.n_instructors %}
-
-{% assign upcoming_workshop_count =  site.data.all_upcoming_workshops | size %}
-{% assign past_workshop_count = site.data.all_past_workshops | size %}
-{% assign all_workshops_count = upcoming_workshop_count | plus: past_workshop_count %}
-{% assign all_learners_count = all_workshops_count | times: 25 %}
-
-<h2>Count instructors: {{ instructor_count }}</h2>
-
 
 <p>The Carpentries develops and teaches in-person, interactive, hands-on, two-day workshops for learning core data science and coding skills. Carpentries workshops are
 taught by volunteer <a href="{%link pages/instructors.html%}">Instructors</a>, <a href="http://carpentries.github.io/instructor-training/">trained in pedagogy</a>, who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on <a href="https://github.com">GitHub</a>, and collaboratively developed by our volunteer community.  All participants are required to abide by <a href="https://docs.carpentries.org/topic_folders/policies/index_coc.html">The Carpentries Code of Conduct</a>. </p>
@@ -34,7 +21,7 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
 <div class="callout-wrap-large">
 <div class="callout-circle">
 
-<span>1,640
+<span>{{ site.data.badges_stats.n_instructors }}
 </span>
 
 </div>
@@ -46,7 +33,7 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
 <div class="callout-wrap-large">
 <div class="callout-circle">
 
-<span>{% include numbers_with_commas.html number=all_learners_count %}</span>
+<span>{{ site.data.all_past_workshops | size | times: 25}}</span>
 
 </div>
 <h3 align="center">learners</h3>
@@ -57,7 +44,7 @@ Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_wor
 <div class="callout-wrap-large">
 <div class="callout-circle">
 
-<span>{% include numbers_with_commas.html number=all_workshops_count %}</span>
+<span>{{ site.data.all_past_workshops | size }}</span>
 
 </div>
 <h3 align="center">workshops</h3>
