@@ -27,12 +27,12 @@ curriculum advisors, helpers, workshop hosts and organisers, community champions
 {% assign instructor_count = site.data.badges_stats.n_instructors %} -->
 
 
-{% assign upcoming_workshop_count =  5 %}
+<!-- {% assign upcoming_workshop_count =  5 %} -->
 {% assign past_workshop_count = 10 %}
 {% assign all_workshops_count = 15 %}
 {% assign all_learners_count = 25 %}
 {% assign instructor_count = 30 %}
-
+{% assign upcoming_workshop_count =  site.data.all_upcoming_workshops | size %}
 
 <hr>
 <div class="row">
